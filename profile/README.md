@@ -8,7 +8,6 @@ GitHub Community is built to support all GitHub users on their educational journ
 * [Join Global Campus](https://education.github.com/benefits?type=student) 
 * [GitHub Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines)
 * [Student Developer Pack Application & FAQs](https://github.com/orgs/community/discussions/17814)
-* [GitHub Community Discourse ➡️ Discussions Categories](https://github.com/orgs/community/discussions/21279)
 
 ### Documentation
 
@@ -25,3 +24,6 @@ GitHub Community is built to support all GitHub users on their educational journ
 
 #### Quick note on 3rd party integrations
 > _Due to an overwhelming number of suspicious requests from community members for 3rd party apps and integrations to this org, we've turned off "Allow integration requests from outside collaborators"._
+
+#### Quick note on temporary interaction limits
+In an effort to reduce spammy behavior, we are instituting temporary interaction limits to bar accounts less than 24hrs-old from participating in the `github.com/community` Discussions space. This experiment is running from Feb 22, 2023 to March 22, 2023.
